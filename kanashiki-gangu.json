@@ -1,0 +1,5192 @@
+{
+ "work": "悲しき玩具",
+ "work_id": "kanashiki-gangu",
+ "repo": "kumoi-no-fumigura/kanashiki-gangu",
+ "yomi": "かなしきがんぐ",
+ "category": "近代歌集",
+ "kind": "kashu",
+ "description": {
+  "kind": "近代歌集",
+  "era": "明治時代",
+  "author": "石川啄木",
+  "desc": "石川啄木の第二歌集（明治 45 年、没後の刊行）。三行書きの短歌を収める。"
+ },
+ "editions": [
+  {
+   "pid": "aozora",
+   "title": "日本文学全集12　国木田独歩・石川啄木集",
+   "editor": "入力: j.utiyama、校正: 浜野智",
+   "series": "青空文庫",
+   "publisher": "集英社",
+   "year": 1967,
+   "pages": "",
+   "url": "https://www.aozora.gr.jp/cards/000153/card815.html"
+  }
+ ],
+ "status": "未校正",
+ "license": {
+  "text": "CC0 1.0"
+ },
+ "translation": null,
+ "blocks": [
+  {
+   "id": "kanashiki-gangu-000001",
+   "pid": "aozora",
+   "pages": [],
+   "no": 1,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "呼吸すれば、胸の中にて鳴る音あり。凩よりもさびしきその音！",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    6,
+    17
+   ],
+   "ruby": [
+    {
+     "a": "呼吸",
+     "r": "いき"
+    },
+    {
+     "a": "中",
+     "r": "うち"
+    },
+    {
+     "a": "凩",
+     "r": "こがらし"
+    },
+    {
+     "a": "音",
+     "r": "おと"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000002",
+   "pid": "aozora",
+   "pages": [],
+   "no": 2,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "眼閉づれど、心にうかぶ何もなし。さびしくも、また、眼をあけるかな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    6,
+    16
+   ],
+   "ruby": [
+    {
+     "a": "眼",
+     "r": "め"
+    },
+    {
+     "a": "閉",
+     "r": "と"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000003",
+   "pid": "aozora",
+   "pages": [],
+   "no": 3,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "途中にてふと気が変り、つとめ先を休みて、今日も、河岸をさまよへり。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    24
+   ],
+   "ruby": [
+    {
+     "a": "河岸",
+     "r": "かし"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000004",
+   "pid": "aozora",
+   "pages": [],
+   "no": 4,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "咽喉がかわき、まだ起きてゐる果物屋を探しに行きぬ。秋の夜ふけに。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    7,
+    25
+   ],
+   "ruby": [
+    {
+     "a": "咽喉",
+     "r": "のど"
+    },
+    {
+     "a": "果物屋",
+     "r": "くだものや"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000005",
+   "pid": "aozora",
+   "pages": [],
+   "no": 5,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "遊びに出て子供かへらず、取り出して走らせて見る玩具の機関車。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    17
+   ],
+   "ruby": [
+    {
+     "a": "出",
+     "r": "で"
+    },
+    {
+     "a": "玩具",
+     "r": "おもちや"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000006",
+   "pid": "aozora",
+   "pages": [],
+   "no": 6,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "本を買ひたし、本を買ひたしと、あてつけのつもりではなけれど、妻に言ひてみる。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    15,
+    30
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000007",
+   "pid": "aozora",
+   "pages": [],
+   "no": 7,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "旅を思ふ夫の心！叱り、泣く、妻子の心！朝の食卓！",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    8,
+    19
+   ],
+   "ruby": [
+    {
+     "a": "夫",
+     "r": "をっと"
+    },
+    {
+     "a": "叱",
+     "r": "しか"
+    },
+    {
+     "a": "妻子",
+     "r": "つまこ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000008",
+   "pid": "aozora",
+   "pages": [],
+   "no": 8,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "家を出て五町ばかりは、用のある人のごとくに歩いてみたれど――",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    21
+   ],
+   "ruby": [
+    {
+     "a": "家",
+     "r": "いへ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000009",
+   "pid": "aozora",
+   "pages": [],
+   "no": 9,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "痛む歯をおさへつつ、日が赤赤と、冬の靄の中にのぼるを見たり。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    16
+   ],
+   "ruby": [
+    {
+     "a": "赤赤",
+     "r": "あかあか"
+    },
+    {
+     "a": "靄",
+     "r": "もや"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000010",
+   "pid": "aozora",
+   "pages": [],
+   "no": 10,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いつまでも歩いてゐねばならぬごとき思ひ湧き来ぬ、深夜の町町。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    17,
+    24
+   ],
+   "ruby": [
+    {
+     "a": "湧",
+     "r": "わ"
+    },
+    {
+     "a": "来",
+     "r": "き"
+    },
+    {
+     "a": "町町",
+     "r": "まちまち"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000011",
+   "pid": "aozora",
+   "pages": [],
+   "no": 11,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "なつかしき冬の朝かな。湯をのめば、湯気がやはらかに、顔にかかれり。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    17
+   ],
+   "ruby": [
+    {
+     "a": "湯気",
+     "r": "ゆげ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000012",
+   "pid": "aozora",
+   "pages": [],
+   "no": 12,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "何となく、今朝は少しく、わが心明るきごとし。手の爪を切る。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    22
+   ],
+   "ruby": [
+    {
+     "a": "何",
+     "r": "なん"
+    },
+    {
+     "a": "今朝",
+     "r": "けさ"
+    },
+    {
+     "a": "爪",
+     "r": "つめ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000013",
+   "pid": "aozora",
+   "pages": [],
+   "no": 13,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "うっとりと本の挿絵に眺め入り、煙草の煙吹きかけてみる。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    15
+   ],
+   "ruby": [
+    {
+     "a": "挿絵",
+     "r": "さしゑ"
+    },
+    {
+     "a": "入",
+     "r": "い"
+    },
+    {
+     "a": "煙草",
+     "r": "たばこ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000014",
+   "pid": "aozora",
+   "pages": [],
+   "no": 14,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "途中にて乗換の電車なくなりしに、泣かうかと思ひき。雨も降りてゐき。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    16,
+    25
+   ],
+   "ruby": [
+    {
+     "a": "乗換",
+     "r": "のりかへ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000015",
+   "pid": "aozora",
+   "pages": [],
+   "no": 15,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "二晩おきに、夜の一時頃に切通の坂を上りしも――勤めなればかな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    6,
+    23
+   ],
+   "ruby": [
+    {
+     "a": "二晩",
+     "r": "ふたばん"
+    },
+    {
+     "a": "夜",
+     "r": "よ"
+    },
+    {
+     "a": "切通",
+     "r": "きりどほし"
+    },
+    {
+     "a": "上",
+     "r": "のぼ"
+    },
+    {
+     "a": "勤",
+     "r": "つと"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000016",
+   "pid": "aozora",
+   "pages": [],
+   "no": 16,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "しっとりと酒のかをりにひたりたる脳の重みを感じて帰る。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    16
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000017",
+   "pid": "aozora",
+   "pages": [],
+   "no": 17,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "今日もまた酒のめるかな！酒のめば胸のむかつく癖を知りつつ。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    16
+   ],
+   "ruby": [
+    {
+     "a": "今日",
+     "r": "けふ"
+    },
+    {
+     "a": "癖",
+     "r": "くせ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000018",
+   "pid": "aozora",
+   "pages": [],
+   "no": 18,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "何事か今我つぶやけり。かく思ひ、目をうちつぶり、酔ひを味ふ。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    16
+   ],
+   "ruby": [
+    {
+     "a": "酔",
+     "r": "ゑ"
+    },
+    {
+     "a": "味",
+     "r": "あじは"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000019",
+   "pid": "aozora",
+   "pages": [],
+   "no": 19,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "すっきりと酔ひのさめたる心地よさよ！夜中に起きて、墨を磨るかな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    18,
+    25
+   ],
+   "ruby": [
+    {
+     "a": "心地",
+     "r": "ここち"
+    },
+    {
+     "a": "墨",
+     "r": "すみ"
+    },
+    {
+     "a": "磨",
+     "r": "す"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000020",
+   "pid": "aozora",
+   "pages": [],
+   "no": 20,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "真夜中の出窓に出でて、欄干の霜に手先を冷やしけるかな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    16
+   ],
+   "ruby": [
+    {
+     "a": "出窓",
+     "r": "でまど"
+    },
+    {
+     "a": "出",
+     "r": "い"
+    },
+    {
+     "a": "欄干",
+     "r": "らんかん"
+    },
+    {
+     "a": "冷",
+     "r": "ひ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000021",
+   "pid": "aozora",
+   "pages": [],
+   "no": 21,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "どうなりと勝手になれといふごときわがこのごろをひとり恐るる。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    16,
+    23
+   ],
+   "ruby": [
+    {
+     "a": "恐",
+     "r": "おそ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000022",
+   "pid": "aozora",
+   "pages": [],
+   "no": 22,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "手も足もはなればなれにあるごときものうき寝覚！かなしき寝覚！",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    16,
+    23
+   ],
+   "ruby": [
+    {
+     "a": "寝覚",
+     "r": "ねざめ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000023",
+   "pid": "aozora",
+   "pages": [],
+   "no": 23,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "朝な朝な撫でてかなしむ、下にして寝た方の腿のかろきしびれを。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    12
+   ],
+   "ruby": [
+    {
+     "a": "撫",
+     "r": "な"
+    },
+    {
+     "a": "方",
+     "r": "はう"
+    },
+    {
+     "a": "腿",
+     "r": "もも"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000024",
+   "pid": "aozora",
+   "pages": [],
+   "no": 24,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "曠野ゆく汽車のごとくに、このなやみ、ときどき我の心を通る。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    18
+   ],
+   "ruby": [
+    {
+     "a": "曠野",
+     "r": "あらの"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000025",
+   "pid": "aozora",
+   "pages": [],
+   "no": 25,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "みすぼらしき郷里の新聞ひろげつつ、誤植ひろへり。今朝のかなしみ。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    17,
+    24
+   ],
+   "ruby": [
+    {
+     "a": "郷里",
+     "r": "くに"
+    },
+    {
+     "a": "誤植",
+     "r": "ごしよく"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000026",
+   "pid": "aozora",
+   "pages": [],
+   "no": 26,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "誰か我を思ふ存分叱りつくる人あれと思ふ。何の心ぞ。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    20
+   ],
+   "ruby": [
+    {
+     "a": "誰",
+     "r": "たれ"
+    },
+    {
+     "a": "存分",
+     "r": "ぞんぶん"
+    },
+    {
+     "a": "叱",
+     "r": "しか"
+    },
+    {
+     "a": "何",
+     "r": "なん"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000027",
+   "pid": "aozora",
+   "pages": [],
+   "no": 27,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "何がなく初恋人のおくつきに詣づるごとし。郊外に来ぬ。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    20
+   ],
+   "ruby": [
+    {
+     "a": "初恋人",
+     "r": "はつこひびと"
+    },
+    {
+     "a": "詣",
+     "r": "まう"
+    },
+    {
+     "a": "来",
+     "r": "き"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000028",
+   "pid": "aozora",
+   "pages": [],
+   "no": 28,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "なつかしき故郷にかへる思ひあり、久し振りにて汽車に乗りしに。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    16
+   ],
+   "ruby": [
+    {
+     "a": "振",
+     "r": "ぶ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000029",
+   "pid": "aozora",
+   "pages": [],
+   "no": 29,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "新しき明日の来るを信ずといふ自分の言葉に嘘はなけれど――",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    14,
+    20
+   ],
+   "ruby": [
+    {
+     "a": "明日",
+     "r": "あす"
+    },
+    {
+     "a": "来",
+     "r": "きた"
+    },
+    {
+     "a": "嘘",
+     "r": "うそ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000030",
+   "pid": "aozora",
+   "pages": [],
+   "no": 30,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "考へれば、ほんとに欲しと思ふこと有るやうで無し。煙管をみがく。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    24
+   ],
+   "ruby": [
+    {
+     "a": "欲",
+     "r": "ほ"
+    },
+    {
+     "a": "煙管",
+     "r": "きせる"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000031",
+   "pid": "aozora",
+   "pages": [],
+   "no": 31,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "今日ひょいと山が恋しくて山に来ぬ。去年腰掛けし石をさがすかな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    17
+   ],
+   "ruby": [
+    {
+     "a": "来",
+     "r": "き"
+    },
+    {
+     "a": "腰掛",
+     "r": "こしか"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000032",
+   "pid": "aozora",
+   "pages": [],
+   "no": 32,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "朝寝して新聞読む間なかりしを負債のごとく今日も感ずる。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    14,
+    20
+   ],
+   "ruby": [
+    {
+     "a": "間",
+     "r": "ま"
+    },
+    {
+     "a": "負債",
+     "r": "ふさい"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000033",
+   "pid": "aozora",
+   "pages": [],
+   "no": 33,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "よごれたる手をみる――ちゃうどこの頃の自分の心に対ふがごとし。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    15
+   ],
+   "ruby": [
+    {
+     "a": "対",
+     "r": "むか"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000034",
+   "pid": "aozora",
+   "pages": [],
+   "no": 34,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "よごれたる手を洗ひし時のかすかなる満足が今日の満足なりき。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    20
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000035",
+   "pid": "aozora",
+   "pages": [],
+   "no": 35,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "年明けてゆるめる心！うっとりと来し方をすべて忘れしごとし。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    15
+   ],
+   "ruby": [
+    {
+     "a": "来",
+     "r": "こ"
+    },
+    {
+     "a": "方",
+     "r": "かた"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000036",
+   "pid": "aozora",
+   "pages": [],
+   "no": 36,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "昨日まで朝から晩まで張りつめしあのこころもち忘れじと思へど。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    15,
+    22
+   ],
+   "ruby": [
+    {
+     "a": "晩",
+     "r": "ばん"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000037",
+   "pid": "aozora",
+   "pages": [],
+   "no": 37,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "戸の面には羽子突く音す。笑う声す。去年の正月にかへれるごとし。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    17
+   ],
+   "ruby": [
+    {
+     "a": "面",
+     "r": "も"
+    },
+    {
+     "a": "羽子",
+     "r": "はね"
+    },
+    {
+     "a": "突",
+     "r": "つ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000038",
+   "pid": "aozora",
+   "pages": [],
+   "no": 38,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "何となく、今年はよい事あるごとし。元日の朝、晴れて風無し。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    17
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000039",
+   "pid": "aozora",
+   "pages": [],
+   "no": 39,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "腹の底より欠伸もよほしながながと欠伸してみぬ、今年の元日。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    23
+   ],
+   "ruby": [
+    {
+     "a": "欠伸",
+     "r": "あくび"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000040",
+   "pid": "aozora",
+   "pages": [],
+   "no": 40,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いつの年も、似たよな歌を二つ三つ年賀の文に書いてよこす友。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    6,
+    16
+   ],
+   "ruby": [
+    {
+     "a": "文",
+     "r": "ふみ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000041",
+   "pid": "aozora",
+   "pages": [],
+   "no": 41,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "正月の四日になりてあの人の年に一度の葉書も来にけり。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    9,
+    13
+   ],
+   "ruby": [
+    {
+     "a": "四日",
+     "r": "よっか"
+    },
+    {
+     "a": "年",
+     "r": "ねん"
+    },
+    {
+     "a": "葉書",
+     "r": "はがき"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000042",
+   "pid": "aozora",
+   "pages": [],
+   "no": 42,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "世におこなひがたき事のみ考へるわれの頭よ！今年もしかるか。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    15,
+    21
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000043",
+   "pid": "aozora",
+   "pages": [],
+   "no": 43,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "人がみな同じ方角に向いて行く。それを横より見てゐる心。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    15
+   ],
+   "ruby": [
+    {
+     "a": "方角",
+     "r": "はうがく"
+    },
+    {
+     "a": "行",
+     "r": "ゆ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000044",
+   "pid": "aozora",
+   "pages": [],
+   "no": 44,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いつまでか、この見飽きたる懸額をこのまま懸けておくことやらむ。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    6,
+    16
+   ],
+   "ruby": [
+    {
+     "a": "見飽",
+     "r": "みあ"
+    },
+    {
+     "a": "懸額",
+     "r": "かけがく"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000045",
+   "pid": "aozora",
+   "pages": [],
+   "no": 45,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ぢりぢりと、蝋燭の燃えつくるごとく、夜となりたる大晦日かな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    6,
+    18
+   ],
+   "ruby": [
+    {
+     "a": "蝋燭",
+     "r": "らふそく"
+    },
+    {
+     "a": "大晦日",
+     "r": "おほみそか"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000046",
+   "pid": "aozora",
+   "pages": [],
+   "no": 46,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "青塗の瀬戸の火鉢によりかかり、眼閉ぢ、眼を開け、時を惜めり。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    15,
+    24
+   ],
+   "ruby": [
+    {
+     "a": "青塗",
+     "r": "あをぬり"
+    },
+    {
+     "a": "閉",
+     "r": "と"
+    },
+    {
+     "a": "開",
+     "r": "あ"
+    },
+    {
+     "a": "惜",
+     "r": "をし"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000047",
+   "pid": "aozora",
+   "pages": [],
+   "no": 47,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "何となく明日はよき事あるごとく思ふ心を叱りて眠る。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    15,
+    19
+   ],
+   "ruby": [
+    {
+     "a": "何",
+     "r": "なん"
+    },
+    {
+     "a": "叱",
+     "r": "しか"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000048",
+   "pid": "aozora",
+   "pages": [],
+   "no": 48,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "過ぎゆける一年のつかれ出しものか、元日といふにうとうと眠し。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    17,
+    23
+   ],
+   "ruby": [
+    {
+     "a": "出",
+     "r": "で"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000049",
+   "pid": "aozora",
+   "pages": [],
+   "no": 49,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "それとなくその由るところ悲しまる、元日の午後の眠たき心。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    17
+   ],
+   "ruby": [
+    {
+     "a": "由",
+     "r": "よ"
+    },
+    {
+     "a": "眠",
+     "r": "ねむ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000050",
+   "pid": "aozora",
+   "pages": [],
+   "no": 50,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ぢっとして、蜜柑のつゆに染まりたる爪を見つむる心もとなさ！",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    6,
+    23
+   ],
+   "ruby": [
+    {
+     "a": "蜜柑",
+     "r": "みかん"
+    },
+    {
+     "a": "爪",
+     "r": "つめ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000051",
+   "pid": "aozora",
+   "pages": [],
+   "no": 51,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "手を打ちて眠気の返事きくまでのそのもどかしさに似たるもどかしさ！",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    15
+   ],
+   "ruby": [
+    {
+     "a": "眠気",
+     "r": "ねむげ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000052",
+   "pid": "aozora",
+   "pages": [],
+   "no": 52,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "やみがたき用を忘れ来ぬ――途中にて口に入れたるゼムのためなりし。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    13,
+    23
+   ],
+   "ruby": [
+    {
+     "a": "来",
+     "r": "き"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000053",
+   "pid": "aozora",
+   "pages": [],
+   "no": 53,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "すっぽりと蒲団をかぶり、足をちぢめ、舌を出してみぬ、誰にともなしに。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    18
+   ],
+   "ruby": [
+    {
+     "a": "蒲団",
+     "r": "ふとん"
+    },
+    {
+     "a": "誰",
+     "r": "たれ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000054",
+   "pid": "aozora",
+   "pages": [],
+   "no": 54,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いつしかに正月も過ぎて、わが生活がまたもとの道にはまり来れり。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    17
+   ],
+   "ruby": [
+    {
+     "a": "生活",
+     "r": "くらし"
+    },
+    {
+     "a": "来",
+     "r": "きた"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000055",
+   "pid": "aozora",
+   "pages": [],
+   "no": 55,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "神様と議論して泣きし――あの夢よ！四日ばかりも前の朝なりし。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    17
+   ],
+   "ruby": [
+    {
+     "a": "日",
+     "r": "か"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000056",
+   "pid": "aozora",
+   "pages": [],
+   "no": 56,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "家にかへる時間となるを、ただ一つの待つことにして、今日も働けり。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    25
+   ],
+   "ruby": [
+    {
+     "a": "家",
+     "r": "いへ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000057",
+   "pid": "aozora",
+   "pages": [],
+   "no": 57,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いろいろの人の思はくはかりかねて、今日もおとなしく暮らしたるかな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    17
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000058",
+   "pid": "aozora",
+   "pages": [],
+   "no": 58,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "おれが若しこの新聞の主筆ならば、やらむ――と思ひしいろいろの事！",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    16,
+    25
+   ],
+   "ruby": [
+    {
+     "a": "若",
+     "r": "も"
+    },
+    {
+     "a": "主筆",
+     "r": "しゆひつ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000059",
+   "pid": "aozora",
+   "pages": [],
+   "no": 59,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "石狩の空知郡の牧場のお嫁さんより送り来しバタかな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    7,
+    20
+   ],
+   "ruby": [
+    {
+     "a": "石狩",
+     "r": "いしかり"
+    },
+    {
+     "a": "空知郡",
+     "r": "そらちごほり"
+    },
+    {
+     "a": "嫁",
+     "r": "よめ"
+    },
+    {
+     "a": "来",
+     "r": "き"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000060",
+   "pid": "aozora",
+   "pages": [],
+   "no": 60,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "外套の襟に頤を埋め、夜ふけに立どまりて聞く。よく似た声かな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    22
+   ],
+   "ruby": [
+    {
+     "a": "外套",
+     "r": "ぐわいたう"
+    },
+    {
+     "a": "襟",
+     "r": "えり"
+    },
+    {
+     "a": "頤",
+     "r": "あご"
+    },
+    {
+     "a": "埋",
+     "r": "うづ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000061",
+   "pid": "aozora",
+   "pages": [],
+   "no": 61,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "Ｙといふ符牒、古日記の処処にあり――Ｙとはあの人の事なりしかな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    7,
+    18
+   ],
+   "ruby": [
+    {
+     "a": "符牒",
+     "r": "ふてふ"
+    },
+    {
+     "a": "古日記",
+     "r": "ふるにつき"
+    },
+    {
+     "a": "処処",
+     "r": "しよしよ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000062",
+   "pid": "aozora",
+   "pages": [],
+   "no": 62,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "百姓の多くは酒をやめしといふ。もっと困らば、何をやめるらむ。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    15,
+    22
+   ],
+   "ruby": [
+    {
+     "a": "困",
+     "r": "こま"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000063",
+   "pid": "aozora",
+   "pages": [],
+   "no": 63,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "目さまして直ぐの心よ！年よりの家出の記事にも涙出でたり。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    22
+   ],
+   "ruby": [
+    {
+     "a": "直",
+     "r": "す"
+    },
+    {
+     "a": "出",
+     "r": "い"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000064",
+   "pid": "aozora",
+   "pages": [],
+   "no": 64,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "人とともに事をはかるに適せざる、わが性格を思ふ寝覚かな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    16
+   ],
+   "ruby": [
+    {
+     "a": "適",
+     "r": "てき"
+    },
+    {
+     "a": "寝覚",
+     "r": "ねざめ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000065",
+   "pid": "aozora",
+   "pages": [],
+   "no": 65,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "何となく、案外に多き気もせらる、自分と同じこと思ふ人。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    16
+   ],
+   "ruby": [
+    {
+     "a": "何",
+     "r": "なに"
+    },
+    {
+     "a": "案外",
+     "r": "あんがい"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000066",
+   "pid": "aozora",
+   "pages": [],
+   "no": 66,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "自分よりも年若き人に、半日も気焔を吐きて、つかれし心！",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    21
+   ],
+   "ruby": [
+    {
+     "a": "気焔",
+     "r": "きえん"
+    },
+    {
+     "a": "吐",
+     "r": "は"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000067",
+   "pid": "aozora",
+   "pages": [],
+   "no": 67,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "珍らしく、今日は、議会を罵りつつ涙出でたり。うれしと思ふ。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    9,
+    22
+   ],
+   "ruby": [
+    {
+     "a": "珍",
+     "r": "めづ"
+    },
+    {
+     "a": "罵",
+     "r": "ののし"
+    },
+    {
+     "a": "出",
+     "r": "い"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000068",
+   "pid": "aozora",
+   "pages": [],
+   "no": 68,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ひと晩に咲かせてみむと、梅の鉢を火に焙りしが、咲かざりしかな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    23
+   ],
+   "ruby": [
+    {
+     "a": "鉢",
+     "r": "はち"
+    },
+    {
+     "a": "焙",
+     "r": "あぶ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000069",
+   "pid": "aozora",
+   "pages": [],
+   "no": 69,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あやまちて茶碗をこはし、物をこはす気持のよさを、今朝も思へる。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    24
+   ],
+   "ruby": [
+    {
+     "a": "今朝",
+     "r": "けさ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000070",
+   "pid": "aozora",
+   "pages": [],
+   "no": 70,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "猫の耳を引っぱりてみて、にゃと啼けば、びっくりして喜ぶ子供の顔かな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    19
+   ],
+   "ruby": [
+    {
+     "a": "啼",
+     "r": "な"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000071",
+   "pid": "aozora",
+   "pages": [],
+   "no": 71,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "何故かうかとなさけなくなり、弱い心を何度も叱り、金かりに行く。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    14,
+    24
+   ],
+   "ruby": [
+    {
+     "a": "何故",
+     "r": "なぜ"
+    },
+    {
+     "a": "叱",
+     "r": "しか"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000072",
+   "pid": "aozora",
+   "pages": [],
+   "no": 72,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "待てど待てど、来る筈の人の来ぬ日なりき、机の位置を此処に変へしは。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    7,
+    20
+   ],
+   "ruby": [
+    {
+     "a": "筈",
+     "r": "はず"
+    },
+    {
+     "a": "此処",
+     "r": "ここ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000073",
+   "pid": "aozora",
+   "pages": [],
+   "no": 73,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "古新聞！おやここにおれの歌の事を賞めて書いてあり、二三行なれど。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    25
+   ],
+   "ruby": [
+    {
+     "a": "賞",
+     "r": "ほ"
+    },
+    {
+     "a": "行",
+     "r": "ぎやう"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000074",
+   "pid": "aozora",
+   "pages": [],
+   "no": 74,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "引越しの朝の足もとに落ちてゐぬ、女の写真！忘れゐし写真！",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    16,
+    21
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000075",
+   "pid": "aozora",
+   "pages": [],
+   "no": 75,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "その頃は気もつかざりし仮名ちがひの多きことかな、昔の恋文！",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    24
+   ],
+   "ruby": [
+    {
+     "a": "仮名",
+     "r": "かな"
+    },
+    {
+     "a": "恋文",
+     "r": "こひぶみ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000076",
+   "pid": "aozora",
+   "pages": [],
+   "no": 76,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "八年前の今のわが妻の手紙の束！何処に蔵ひしかと気にかかるかな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    15
+   ],
+   "ruby": [
+    {
+     "a": "八年前",
+     "r": "はちねんぜん"
+    },
+    {
+     "a": "束",
+     "r": "たば"
+    },
+    {
+     "a": "何処",
+     "r": "どこ"
+    },
+    {
+     "a": "蔵",
+     "r": "しま"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000077",
+   "pid": "aozora",
+   "pages": [],
+   "no": 77,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "眠られぬ癖のかなしさよ！すこしでも眠気がさせば、うろたへて寝る。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    17
+   ],
+   "ruby": [
+    {
+     "a": "癖",
+     "r": "くせ"
+    },
+    {
+     "a": "眠気",
+     "r": "ねむけ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000078",
+   "pid": "aozora",
+   "pages": [],
+   "no": 78,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "笑ふにも笑はれざりき――長いこと捜したナイフの手の中にありしに。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    23
+   ],
+   "ruby": [
+    {
+     "a": "捜",
+     "r": "さが"
+    },
+    {
+     "a": "中",
+     "r": "うち"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000079",
+   "pid": "aozora",
+   "pages": [],
+   "no": 79,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "この四五年、空を仰ぐといふことが一度もなかりき。かうもなるものか？",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    6,
+    24
+   ],
+   "ruby": [
+    {
+     "a": "仰",
+     "r": "あふ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000080",
+   "pid": "aozora",
+   "pages": [],
+   "no": 80,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "原稿紙にでなくては字を書かぬものと、かたく信ずる我が児のあどけなさ！",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    9,
+    18
+   ],
+   "ruby": [
+    {
+     "a": "児",
+     "r": "こ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000081",
+   "pid": "aozora",
+   "pages": [],
+   "no": 81,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "どうかかうか、今月も無事に暮らしたりと、外に欲もなき晦日の晩かな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    20,
+    26
+   ],
+   "ruby": [
+    {
+     "a": "無事",
+     "r": "ぶじ"
+    },
+    {
+     "a": "外",
+     "r": "ほか"
+    },
+    {
+     "a": "晦日",
+     "r": "みそか"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000082",
+   "pid": "aozora",
+   "pages": [],
+   "no": 82,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あの頃はよく嘘を言ひき。平気にてよく嘘を言ひき。汗が出づるかな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    24
+   ],
+   "ruby": [
+    {
+     "a": "嘘",
+     "r": "うそ"
+    },
+    {
+     "a": "出",
+     "r": "い"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000083",
+   "pid": "aozora",
+   "pages": [],
+   "no": 83,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "古手紙よ！あの男とも、五年前は、かほど親しく交はりしかな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    16
+   ],
+   "ruby": [
+    {
+     "a": "交",
+     "r": "まじ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000084",
+   "pid": "aozora",
+   "pages": [],
+   "no": 84,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "名は何と言ひけむ。姓は鈴木なりき。今はどうして何処にゐるらむ。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    9,
+    17
+   ],
+   "ruby": [
+    {
+     "a": "何",
+     "r": "なん"
+    },
+    {
+     "a": "何処",
+     "r": "どこ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000085",
+   "pid": "aozora",
+   "pages": [],
+   "no": 85,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "生れたといふ葉書みて、ひとしきり、顔をはれやかにしてゐたるかな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    17
+   ],
+   "ruby": [
+    {
+     "a": "葉書",
+     "r": "はがき"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000086",
+   "pid": "aozora",
+   "pages": [],
+   "no": 86,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "そうれみろ、あの人も子をこしらへたと、何か気の済む心地にて寝る。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    6,
+    19
+   ],
+   "ruby": [
+    {
+     "a": "済",
+     "r": "す"
+    },
+    {
+     "a": "心地",
+     "r": "ここち"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000087",
+   "pid": "aozora",
+   "pages": [],
+   "no": 87,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "『石川はふびんな奴だ。』ときにかう自分で言ひて、かなしみてみる。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    24
+   ],
+   "ruby": [
+    {
+     "a": "奴",
+     "r": "やつ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000088",
+   "pid": "aozora",
+   "pages": [],
+   "no": 88,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ドア推してひと足出れば、病人の目にはてもなき長廊下かな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    22
+   ],
+   "ruby": [
+    {
+     "a": "推",
+     "r": "お"
+    },
+    {
+     "a": "足",
+     "r": "あし"
+    },
+    {
+     "a": "出",
+     "r": "で"
+    },
+    {
+     "a": "廊下",
+     "r": "らうか"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000089",
+   "pid": "aozora",
+   "pages": [],
+   "no": 89,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "重い荷を下したやうな、気持なりき、この寝台の上に来ていねしとき。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    17
+   ],
+   "ruby": [
+    {
+     "a": "下",
+     "r": "おろ"
+    },
+    {
+     "a": "寝台",
+     "r": "ねだい"
+    },
+    {
+     "a": "来",
+     "r": "き"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000090",
+   "pid": "aozora",
+   "pages": [],
+   "no": 90,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "そんならば生命が欲しくないのかと、医者に言はれて、だまりし心！",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    17,
+    25
+   ],
+   "ruby": [
+    {
+     "a": "生命",
+     "r": "いのち"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000091",
+   "pid": "aozora",
+   "pages": [],
+   "no": 91,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "真夜中にふと目がさめて、わけもなく泣きたくなりて、蒲団をかぶれる。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    25
+   ],
+   "ruby": [
+    {
+     "a": "蒲団",
+     "r": "ふとん"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000092",
+   "pid": "aozora",
+   "pages": [],
+   "no": 92,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "話しかけて返事のなきによく見れば、泣いてゐたりき、隣の患者。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    17
+   ],
+   "ruby": [
+    {
+     "a": "患者",
+     "r": "くわんじや"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000093",
+   "pid": "aozora",
+   "pages": [],
+   "no": 93,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "病室の窓にもたれて、久しぶりに巡査を見たりと、よろこべるかな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    23
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000094",
+   "pid": "aozora",
+   "pages": [],
+   "no": 94,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "晴れし日のかなしみの一つ！病室の窓にもたれて煙草を味ふ。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    13,
+    22
+   ],
+   "ruby": [
+    {
+     "a": "煙草",
+     "r": "たばこ"
+    },
+    {
+     "a": "味",
+     "r": "あじは"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000095",
+   "pid": "aozora",
+   "pages": [],
+   "no": 95,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夜おそく何処やらの室の騒がしきは人や死にたらむと、息をひそむる。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    16,
+    25
+   ],
+   "ruby": [
+    {
+     "a": "何処",
+     "r": "どこ"
+    },
+    {
+     "a": "室",
+     "r": "へや"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000096",
+   "pid": "aozora",
+   "pages": [],
+   "no": 96,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "脉をとる看護婦の手の、あたたかき日あり、つめたく堅き日もあり。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    20
+   ],
+   "ruby": [
+    {
+     "a": "脉",
+     "r": "みやく"
+    },
+    {
+     "a": "堅",
+     "r": "かた"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000097",
+   "pid": "aozora",
+   "pages": [],
+   "no": 97,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "病院に入りて初めての夜といふに、すぐ寝入りしが、物足らぬかな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    16,
+    24
+   ],
+   "ruby": [
+    {
+     "a": "入",
+     "r": "い"
+    },
+    {
+     "a": "夜",
+     "r": "よ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000098",
+   "pid": "aozora",
+   "pages": [],
+   "no": 98,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "何となく自分をえらい人のやうに思ひてゐたりき。子供なりしかな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    15,
+    23
+   ],
+   "ruby": [
+    {
+     "a": "何",
+     "r": "なに"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000099",
+   "pid": "aozora",
+   "pages": [],
+   "no": 99,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ふくれたる腹を撫でつつ、病院の寝台に、ひとり、かなしみてあり。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    23
+   ],
+   "ruby": [
+    {
+     "a": "撫",
+     "r": "な"
+    },
+    {
+     "a": "寝台",
+     "r": "ねだい"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000100",
+   "pid": "aozora",
+   "pages": [],
+   "no": 100,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "目さませば、からだ痛くて動かれず。泣きたくなりて、夜明くるを待つ。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    17
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000101",
+   "pid": "aozora",
+   "pages": [],
+   "no": 101,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "びっしょりと寝汗出てゐるあけがたのまだ覚めやらぬ重きかなしみ。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    17
+   ],
+   "ruby": [
+    {
+     "a": "寝汗",
+     "r": "ねあせ"
+    },
+    {
+     "a": "出",
+     "r": "で"
+    },
+    {
+     "a": "覚",
+     "r": "さ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000102",
+   "pid": "aozora",
+   "pages": [],
+   "no": 102,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ぼんやりとした悲しみが、夜となれば、寝台の上にそっと来て乗る。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    18
+   ],
+   "ruby": [
+    {
+     "a": "夜",
+     "r": "よ"
+    },
+    {
+     "a": "寝台",
+     "r": "ねだい"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000103",
+   "pid": "aozora",
+   "pages": [],
+   "no": 103,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "病院の窓によりつつ、いろいろの人の元気に歩くを眺む。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    17
+   ],
+   "ruby": [
+    {
+     "a": "眺",
+     "r": "なが"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000104",
+   "pid": "aozora",
+   "pages": [],
+   "no": 104,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "もうお前の心底をよく見届けたと、夢に母来て泣いてゆきしかな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    16,
+    21
+   ],
+   "ruby": [
+    {
+     "a": "前",
+     "r": "まへ"
+    },
+    {
+     "a": "心底",
+     "r": "しんてい"
+    },
+    {
+     "a": "見届",
+     "r": "みとど"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000105",
+   "pid": "aozora",
+   "pages": [],
+   "no": 105,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "思ふこと盗みきかるる如くにて、つと胸を引きぬ――聴診器より。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    15,
+    24
+   ],
+   "ruby": [
+    {
+     "a": "如",
+     "r": "ごと"
+    },
+    {
+     "a": "聴診器",
+     "r": "ちやうしんき"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000106",
+   "pid": "aozora",
+   "pages": [],
+   "no": 106,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "看護婦の徹夜するまで、わが病ひ、わるくなれとも、ひそかに願へる。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    16
+   ],
+   "ruby": [
+    {
+     "a": "病",
+     "r": "やま"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000107",
+   "pid": "aozora",
+   "pages": [],
+   "no": 107,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "病院に来て、妻や子をいつくしむまことの我にかへりけるかな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    6,
+    15
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000108",
+   "pid": "aozora",
+   "pages": [],
+   "no": 108,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "もう嘘をいはじと思ひき――それは今朝――今また一つ嘘をいへるかな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    13,
+    20
+   ],
+   "ruby": [
+    {
+     "a": "嘘",
+     "r": "うそ"
+    },
+    {
+     "a": "今朝",
+     "r": "けさ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000109",
+   "pid": "aozora",
+   "pages": [],
+   "no": 109,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "何となく、自分を嘘のかたまりの如く思ひて、目をばつぶれる。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    21
+   ],
+   "ruby": [
+    {
+     "a": "如",
+     "r": "ごと"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000110",
+   "pid": "aozora",
+   "pages": [],
+   "no": 110,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "今までのことをみな嘘にしてみれど、心すこしも慰まざりき。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    7,
+    17
+   ],
+   "ruby": [
+    {
+     "a": "慰",
+     "r": "なぐさ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000111",
+   "pid": "aozora",
+   "pages": [],
+   "no": 111,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "軍人になると言ひ出して、父母に苦労させたる昔の我かな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    15
+   ],
+   "ruby": [
+    {
+     "a": "父母",
+     "r": "ちちはは"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000112",
+   "pid": "aozora",
+   "pages": [],
+   "no": 112,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "うっとりとなりて、剣をさげ、馬にのれる己が姿を胸に描ける。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    9,
+    23
+   ],
+   "ruby": [
+    {
+     "a": "己",
+     "r": "おの"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000113",
+   "pid": "aozora",
+   "pages": [],
+   "no": 113,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "藤沢といふ代議士を弟のごとく思ひて、泣いてやりしかな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    9,
+    18
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000114",
+   "pid": "aozora",
+   "pages": [],
+   "no": 114,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "何か一つ大いなる悪事しておいて、知らぬ顔してゐたき気持かな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    16
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000115",
+   "pid": "aozora",
+   "pages": [],
+   "no": 115,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ぢっとして寝ていらっしゃいと子供にでもいふがごとくに医者のいふ日かな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    14,
+    26
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000116",
+   "pid": "aozora",
+   "pages": [],
+   "no": 116,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "氷嚢の下よりまなこ光らせて、寝られぬ夜は人をにくめる。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    6,
+    14
+   ],
+   "ruby": [
+    {
+     "a": "夜",
+     "r": "よる"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000117",
+   "pid": "aozora",
+   "pages": [],
+   "no": 117,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "春の雪みだれて降るを熱のある目にかなしくも眺め入りたる。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    16
+   ],
+   "ruby": [
+    {
+     "a": "入",
+     "r": "い"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000118",
+   "pid": "aozora",
+   "pages": [],
+   "no": 118,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "人間のその最大のかなしみがこれかとふっと目をばつぶれる。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    13,
+    17
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000119",
+   "pid": "aozora",
+   "pages": [],
+   "no": 119,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "廻診の医者の遅さよ！痛みある胸に手をおきてかたく眼をとづ。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    21
+   ],
+   "ruby": [
+    {
+     "a": "廻診",
+     "r": "くわいしん"
+    },
+    {
+     "a": "遅",
+     "r": "おそ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000120",
+   "pid": "aozora",
+   "pages": [],
+   "no": 120,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "医者の顔色をぢっと見し外に何も見ざりき――胸の痛み募る日。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    13,
+    21
+   ],
+   "ruby": [
+    {
+     "a": "外",
+     "r": "ほか"
+    },
+    {
+     "a": "募",
+     "r": "つの"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000121",
+   "pid": "aozora",
+   "pages": [],
+   "no": 121,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "病みてあれば心も弱るらむ！さまざまの泣きたきことが胸にあつまる。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    13,
+    18
+   ],
+   "ruby": [
+    {
+     "a": "病",
+     "r": "や"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000122",
+   "pid": "aozora",
+   "pages": [],
+   "no": 122,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "寝つつ読む本の重さにつかれたる手を休めては、物を思へり。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    15
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000123",
+   "pid": "aozora",
+   "pages": [],
+   "no": 123,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "今日はなぜか、二度も、三度も、金側の時計を一つ欲しと思へり。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    7,
+    15
+   ],
+   "ruby": [
+    {
+     "a": "金側",
+     "r": "きんかは"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000124",
+   "pid": "aozora",
+   "pages": [],
+   "no": 124,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いつか是非、出さんと思ふ本のこと、表紙のことなど、妻に語れる。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    17,
+    25
+   ],
+   "ruby": [
+    {
+     "a": "是非",
+     "r": "ぜひ"
+    },
+    {
+     "a": "出",
+     "r": "だ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000125",
+   "pid": "aozora",
+   "pages": [],
+   "no": 125,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "胸いたみ、春の霙の降る日なり。薬に噎せて、伏して眼をとづ。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    15
+   ],
+   "ruby": [
+    {
+     "a": "霙",
+     "r": "みぞれ"
+    },
+    {
+     "a": "噎",
+     "r": "む"
+    },
+    {
+     "a": "伏",
+     "r": "ふ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000126",
+   "pid": "aozora",
+   "pages": [],
+   "no": 126,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あたらしきサラドの色のうれしさに、箸をとりあげて見は見つれども――",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    17
+   ],
+   "ruby": [
+    {
+     "a": "箸",
+     "r": "はし"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000127",
+   "pid": "aozora",
+   "pages": [],
+   "no": 127,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "子を叱る、あはれ、この心よ。熱高き日の癖とのみ妻よ、思ふな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    14,
+    23
+   ],
+   "ruby": [
+    {
+     "a": "叱",
+     "r": "しか"
+    },
+    {
+     "a": "癖",
+     "r": "くせ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000128",
+   "pid": "aozora",
+   "pages": [],
+   "no": 128,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "運命の来て乗れるかとうたがひぬ――蒲団の重き夜半の寝覚めに。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    17
+   ],
+   "ruby": [
+    {
+     "a": "蒲団",
+     "r": "ふとん"
+    },
+    {
+     "a": "夜半",
+     "r": "よは"
+    },
+    {
+     "a": "寝覚",
+     "r": "ねざ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000129",
+   "pid": "aozora",
+   "pages": [],
+   "no": 129,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "たへがたき渇き覚ゆれど、手をのべて林檎とるだにものうき日かな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    17
+   ],
+   "ruby": [
+    {
+     "a": "渇",
+     "r": "かわ"
+    },
+    {
+     "a": "覚",
+     "r": "おぼ"
+    },
+    {
+     "a": "林檎",
+     "r": "りんご"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000130",
+   "pid": "aozora",
+   "pages": [],
+   "no": 130,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "氷嚢のとけて温めば、おのづから目がさめ来り、からだ痛める。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    22
+   ],
+   "ruby": [
+    {
+     "a": "温",
+     "r": "ぬく"
+    },
+    {
+     "a": "来",
+     "r": "きた"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000131",
+   "pid": "aozora",
+   "pages": [],
+   "no": 131,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いま、夢に閑古鳥を聞けり。閑古鳥を忘れざりしがかなしくあるかな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    13,
+    23
+   ],
+   "ruby": [
+    {
+     "a": "閑古鳥",
+     "r": "かんこどり"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000132",
+   "pid": "aozora",
+   "pages": [],
+   "no": 132,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ふるさとを出でて五年、病をえて、かの閑古鳥を夢にきけるかな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    16
+   ],
+   "ruby": [
+    {
+     "a": "出",
+     "r": "い"
+    },
+    {
+     "a": "五年",
+     "r": "いつとせ"
+    },
+    {
+     "a": "病",
+     "r": "やまひ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000133",
+   "pid": "aozora",
+   "pages": [],
+   "no": 133,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "閑古鳥――渋民村の山荘をめぐる林のあかつきなつかし。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    17
+   ],
+   "ruby": [
+    {
+     "a": "渋民村",
+     "r": "しぶたみむら"
+    },
+    {
+     "a": "山荘",
+     "r": "さんさう"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000134",
+   "pid": "aozora",
+   "pages": [],
+   "no": 134,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ふるさとの寺の畔のひばの木のいただきに来て啼きし閑古鳥！",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    9,
+    14
+   ],
+   "ruby": [
+    {
+     "a": "畔",
+     "r": "ほとり"
+    },
+    {
+     "a": "啼",
+     "r": "な"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000135",
+   "pid": "aozora",
+   "pages": [],
+   "no": 135,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "脈をとる手のふるひこそかなしけれ――医者に叱られし若き看護婦！",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    18
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000136",
+   "pid": "aozora",
+   "pages": [],
+   "no": 136,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いつとなく記憶に残りぬ――Ｆといふ看護婦の手のつめたさなども。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    13,
+    23
+   ],
+   "ruby": [
+    {
+     "a": "記憶",
+     "r": "きおく"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000137",
+   "pid": "aozora",
+   "pages": [],
+   "no": 137,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "はづれまで一度ゆきたしと思ひゐしかの病院の長廊下かな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    16
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000138",
+   "pid": "aozora",
+   "pages": [],
+   "no": 138,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "起きてみて、また直ぐ寝たくなる時の力なき眼に愛でしチュリップ！",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    6,
+    17
+   ],
+   "ruby": [
+    {
+     "a": "直",
+     "r": "す"
+    },
+    {
+     "a": "愛",
+     "r": "め"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000139",
+   "pid": "aozora",
+   "pages": [],
+   "no": 139,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "堅く握るだけの力も無くなりしやせし我が手のいとほしさかな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    14,
+    21
+   ],
+   "ruby": [
+    {
+     "a": "堅",
+     "r": "かた"
+    },
+    {
+     "a": "握",
+     "r": "にぎ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000140",
+   "pid": "aozora",
+   "pages": [],
+   "no": 140,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "わが病のその因るところ深く且つ遠きを思ふ。目をとぢて思ふ。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    21
+   ],
+   "ruby": [
+    {
+     "a": "病",
+     "r": "やまひ"
+    },
+    {
+     "a": "因",
+     "r": "よ"
+    },
+    {
+     "a": "且",
+     "r": "か"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000141",
+   "pid": "aozora",
+   "pages": [],
+   "no": 141,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "かなしくも、病いゆるを願はざる心我に在り。何の心ぞ。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    6,
+    21
+   ],
+   "ruby": [
+    {
+     "a": "病",
+     "r": "やまひ"
+    },
+    {
+     "a": "在",
+     "r": "あ"
+    },
+    {
+     "a": "何",
+     "r": "なん"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000142",
+   "pid": "aozora",
+   "pages": [],
+   "no": 142,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "新しきからだを欲しと思ひけり、手術の傷の痕を撫でつつ。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    15,
+    20
+   ],
+   "ruby": [
+    {
+     "a": "傷",
+     "r": "きず"
+    },
+    {
+     "a": "痕",
+     "r": "あと"
+    },
+    {
+     "a": "撫",
+     "r": "な"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000143",
+   "pid": "aozora",
+   "pages": [],
+   "no": 143,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "薬のむことを忘るるを、それとなく、たのしみに思ふ長病かな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    17
+   ],
+   "ruby": [
+    {
+     "a": "長病",
+     "r": "ながやまひ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000144",
+   "pid": "aozora",
+   "pages": [],
+   "no": 144,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ボロオヂンといふ露西亜名が、何故ともなく、幾度も思ひ出さるる日なり。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    14,
+    21
+   ],
+   "ruby": [
+    {
+     "a": "露西亜名",
+     "r": "ロシアな"
+    },
+    {
+     "a": "何故",
+     "r": "なぜ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000145",
+   "pid": "aozora",
+   "pages": [],
+   "no": 145,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いつとなく我にあゆみ寄り、手を握り、またいつとなく去りゆく人人！",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    13,
+    18
+   ],
+   "ruby": [
+    {
+     "a": "人人",
+     "r": "ひとびと"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000146",
+   "pid": "aozora",
+   "pages": [],
+   "no": 146,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "友も妻もかなしと思ふらし――病みても猶、革命のこと口に絶たねば。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    14,
+    20
+   ],
+   "ruby": [
+    {
+     "a": "病",
+     "r": "や"
+    },
+    {
+     "a": "猶",
+     "r": "なほ"
+    },
+    {
+     "a": "絶",
+     "r": "た"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000147",
+   "pid": "aozora",
+   "pages": [],
+   "no": 147,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "やや遠きものに思ひしテロリストの悲しき心も――近づく日のあり。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    23
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000148",
+   "pid": "aozora",
+   "pages": [],
+   "no": 148,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "かかる目にすでに幾度会へることぞ！成るがままに成れと今は思ふなり。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    17
+   ],
+   "ruby": [
+    {
+     "a": "幾度",
+     "r": "いくたび"
+    },
+    {
+     "a": "成",
+     "r": "な"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000149",
+   "pid": "aozora",
+   "pages": [],
+   "no": 149,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "月に三十円もあれば、田舎にては、楽に暮せると――ひょっと思へる。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    16,
+    24
+   ],
+   "ruby": [
+    {
+     "a": "田舎",
+     "r": "ゐなか"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000150",
+   "pid": "aozora",
+   "pages": [],
+   "no": 150,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "今日もまた胸に痛みあり。死ぬならば、ふるさとに行きて死なむと思ふ。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    18
+   ],
+   "ruby": [
+    {
+     "a": "行",
+     "r": "ゆ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000151",
+   "pid": "aozora",
+   "pages": [],
+   "no": 151,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いつしかに夏となれりけり。やみあがりの目にこころよき雨の明るさ！",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    13,
+    26
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000152",
+   "pid": "aozora",
+   "pages": [],
+   "no": 152,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "病みて四月――そのときどきに変りたるくすりの味もなつかしきかな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    7,
+    18
+   ],
+   "ruby": [
+    {
+     "a": "病",
+     "r": "や"
+    },
+    {
+     "a": "四月",
+     "r": "しぐわつ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000153",
+   "pid": "aozora",
+   "pages": [],
+   "no": 153,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "病みて四月――その間にも、猶、目に見えて、わが子の背丈のびしかなしみ。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    7,
+    21
+   ],
+   "ruby": [
+    {
+     "a": "月",
+     "r": "ぐわつ"
+    },
+    {
+     "a": "間",
+     "r": "ま"
+    },
+    {
+     "a": "猶",
+     "r": "なほ"
+    },
+    {
+     "a": "背丈",
+     "r": "せたけ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000154",
+   "pid": "aozora",
+   "pages": [],
+   "no": 154,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "すこやかに、背丈のびゆく子を見つつ、われの日毎にさびしきは何ぞ。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    6,
+    18
+   ],
+   "ruby": [
+    {
+     "a": "背丈",
+     "r": "せたけ"
+    },
+    {
+     "a": "日毎",
+     "r": "ひごと"
+    },
+    {
+     "a": "何",
+     "r": "な"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000155",
+   "pid": "aozora",
+   "pages": [],
+   "no": 155,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "まくら辺に子を坐らせて、まじまじとその顔を見れば、逃げてゆきしかな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    25
+   ],
+   "ruby": [
+    {
+     "a": "辺",
+     "r": "べ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000156",
+   "pid": "aozora",
+   "pages": [],
+   "no": 156,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いつも子をうるさきものに思ひゐし間に、その子、五歳になれり。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    19
+   ],
+   "ruby": [
+    {
+     "a": "間",
+     "r": "あひだ"
+    },
+    {
+     "a": "歳",
+     "r": "さい"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000157",
+   "pid": "aozora",
+   "pages": [],
+   "no": 157,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "その親にも、親の親にも似るなかれ――かく汝が父は思へるぞ、子よ。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    6,
+    18
+   ],
+   "ruby": [
+    {
+     "a": "汝",
+     "r": "な"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000158",
+   "pid": "aozora",
+   "pages": [],
+   "no": 158,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "かなしきは、（われもしかりき）叱れども、打てども泣かぬ児の心なる。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    6,
+    15
+   ],
+   "ruby": [
+    {
+     "a": "叱",
+     "r": "しか"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000159",
+   "pid": "aozora",
+   "pages": [],
+   "no": 159,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "「労働者」「革命」などといふ言葉を聞きおぼえたる五歳の子かな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    17,
+    24
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000160",
+   "pid": "aozora",
+   "pages": [],
+   "no": 160,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "時として、あらん限りの声を出し、唱歌をうたふ子をほめてみる。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    16
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000161",
+   "pid": "aozora",
+   "pages": [],
+   "no": 161,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "何思ひけむ――玩具をすてておとなしく、わが側に来て子の坐りたる。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    7,
+    19
+   ],
+   "ruby": [
+    {
+     "a": "玩具",
+     "r": "おもちや"
+    },
+    {
+     "a": "側",
+     "r": "そば"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000162",
+   "pid": "aozora",
+   "pages": [],
+   "no": 162,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "お菓子貰ふ時も忘れて、二階より、町の往来を眺むる子かな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    16
+   ],
+   "ruby": [
+    {
+     "a": "往来",
+     "r": "ゆきき"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000163",
+   "pid": "aozora",
+   "pages": [],
+   "no": 163,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "新しきインクの匂ひ、目に沁むもかなしや。いつか庭の青めり。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    20
+   ],
+   "ruby": [
+    {
+     "a": "匂",
+     "r": "にほ"
+    },
+    {
+     "a": "沁",
+     "r": "し"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000164",
+   "pid": "aozora",
+   "pages": [],
+   "no": 164,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ひとところ、畳を見つめてありし間のその思ひを、妻よ、語れといふか。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    17,
+    23
+   ],
+   "ruby": [
+    {
+     "a": "畳",
+     "r": "たたみ"
+    },
+    {
+     "a": "間",
+     "r": "ま"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000165",
+   "pid": "aozora",
+   "pages": [],
+   "no": 165,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あの年のゆく春のころ、眼をやみてかけし黒眼鏡――こはしやしにけむ。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    24
+   ],
+   "ruby": [
+    {
+     "a": "黒眼鏡",
+     "r": "くろめがね"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000166",
+   "pid": "aozora",
+   "pages": [],
+   "no": 166,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "薬のむことを忘れて、ひさしぶりに、母に叱られしをうれしと思へる。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    17
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000167",
+   "pid": "aozora",
+   "pages": [],
+   "no": 167,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "枕辺の障子あけさせて、空を見る癖もつけるかな――長き病に。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    24
+   ],
+   "ruby": [
+    {
+     "a": "枕辺",
+     "r": "まくらべ"
+    },
+    {
+     "a": "障子",
+     "r": "しやうじ"
+    },
+    {
+     "a": "癖",
+     "r": "くせ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000168",
+   "pid": "aozora",
+   "pages": [],
+   "no": 168,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "おとなしき家畜のごとき心となる、熱やや高き日のたよりなさ。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    16
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000169",
+   "pid": "aozora",
+   "pages": [],
+   "no": 169,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "何か、かう、書いてみたくなりて、ペンを取りぬ――花活の花あたらしき朝。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    16,
+    24
+   ],
+   "ruby": [
+    {
+     "a": "花活",
+     "r": "はないけ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000170",
+   "pid": "aozora",
+   "pages": [],
+   "no": 170,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "放たれし女のごとく、わが妻の振舞ふ日なり。ダリヤを見入る。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    21
+   ],
+   "ruby": [
+    {
+     "a": "放",
+     "r": "はな"
+    },
+    {
+     "a": "振舞",
+     "r": "ふるま"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000171",
+   "pid": "aozora",
+   "pages": [],
+   "no": 171,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あてもなき金などを待つ思ひかな。寝つ起きつして、今日も暮したり。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    16,
+    24
+   ],
+   "ruby": [
+    {
+     "a": "金",
+     "r": "かね"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000172",
+   "pid": "aozora",
+   "pages": [],
+   "no": 172,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "何もかもいやになりゆくこの気持よ。思ひ出しては煙草を吸ふなり。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    17
+   ],
+   "ruby": [
+    {
+     "a": "煙草",
+     "r": "たばこ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000173",
+   "pid": "aozora",
+   "pages": [],
+   "no": 173,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "或る市にゐし頃の事として、友の語る恋がたりに嘘の交るかなしさ。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    13,
+    17
+   ],
+   "ruby": [
+    {
+     "a": "或",
+     "r": "あ"
+    },
+    {
+     "a": "市",
+     "r": "まち"
+    },
+    {
+     "a": "嘘",
+     "r": "うそ"
+    },
+    {
+     "a": "交",
+     "r": "まじ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000174",
+   "pid": "aozora",
+   "pages": [],
+   "no": 174,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ひさしぶりに、ふと声を出して笑ひてみぬ――蝿の両手を揉むが可笑しさに。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    7,
+    21
+   ],
+   "ruby": [
+    {
+     "a": "蝿",
+     "r": "はひ"
+    },
+    {
+     "a": "揉",
+     "r": "も"
+    },
+    {
+     "a": "可笑",
+     "r": "をか"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000175",
+   "pid": "aozora",
+   "pages": [],
+   "no": 175,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "胸いたむ日のかなしみも、かをりよき煙草の如く、棄てがたきかな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    23
+   ],
+   "ruby": [
+    {
+     "a": "如",
+     "r": "ごと"
+    },
+    {
+     "a": "棄",
+     "r": "す"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000176",
+   "pid": "aozora",
+   "pages": [],
+   "no": 176,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "何か一つ騒ぎを起してみたかりし、先刻の我をいとしと思へる。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    16,
+    21
+   ],
+   "ruby": [
+    {
+     "a": "先刻",
+     "r": "さっき"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000177",
+   "pid": "aozora",
+   "pages": [],
+   "no": 177,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "五歳になる子に、何故ともなく、ソニヤといふ露西亜名をつけて、呼びてはよろこぶ。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    15,
+    30
+   ],
+   "ruby": [
+    {
+     "a": "何故",
+     "r": "なぜ"
+    },
+    {
+     "a": "露西亜名",
+     "r": "ロシアな"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000178",
+   "pid": "aozora",
+   "pages": [],
+   "no": 178,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "解けがたき不和のあひだに身を処して、ひとりかなしく今日も怒れり。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    18
+   ],
+   "ruby": [
+    {
+     "a": "解",
+     "r": "と"
+    },
+    {
+     "a": "不和",
+     "r": "ふわ"
+    },
+    {
+     "a": "処",
+     "r": "しょ"
+    },
+    {
+     "a": "怒",
+     "r": "いか"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000179",
+   "pid": "aozora",
+   "pages": [],
+   "no": 179,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "猫を飼はば、その猫がまた争ひの種となるらむ、かなしきわが家。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    6,
+    22
+   ],
+   "ruby": [
+    {
+     "a": "飼",
+     "r": "か"
+    },
+    {
+     "a": "争",
+     "r": "あらそ"
+    },
+    {
+     "a": "家",
+     "r": "いへ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000180",
+   "pid": "aozora",
+   "pages": [],
+   "no": 180,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "俺ひとり下宿屋にやりてくれぬかと、今日もあやふく、いひ出でしかな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    17,
+    25
+   ],
+   "ruby": [
+    {
+     "a": "俺",
+     "r": "おれ"
+    },
+    {
+     "a": "出",
+     "r": "い"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000181",
+   "pid": "aozora",
+   "pages": [],
+   "no": 181,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある日、ふと、やまひを忘れ、牛の啼く真似をしてみぬ、――妻子の留守に。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    14,
+    28
+   ],
+   "ruby": [
+    {
+     "a": "啼",
+     "r": "な"
+    },
+    {
+     "a": "妻子",
+     "r": "つまこ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000182",
+   "pid": "aozora",
+   "pages": [],
+   "no": 182,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "かなしきは我が父！今日も新聞を読みあきて、庭に小蟻と遊べり。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    9,
+    21
+   ],
+   "ruby": [
+    {
+     "a": "小蟻",
+     "r": "こあり"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000183",
+   "pid": "aozora",
+   "pages": [],
+   "no": 183,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ただ一人のをとこの子なる我はかく育てり。父母もかなしかるらむ。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    20
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000184",
+   "pid": "aozora",
+   "pages": [],
+   "no": 184,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "茶まで断ちて、わが平復を祈りたまふ母の今日また何か怒れる。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    7,
+    17
+   ],
+   "ruby": [
+    {
+     "a": "断",
+     "r": "た"
+    },
+    {
+     "a": "平復",
+     "r": "へいふく"
+    },
+    {
+     "a": "怒",
+     "r": "いか"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000185",
+   "pid": "aozora",
+   "pages": [],
+   "no": 185,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "今日ひょっと近所の子等と遊びたくなり、呼べど来らず。こころむづかし。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    19,
+    26
+   ],
+   "ruby": [
+    {
+     "a": "子等",
+     "r": "こら"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000186",
+   "pid": "aozora",
+   "pages": [],
+   "no": 186,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "やまひ癒えず、死なず、日毎にこころのみ険しくなれる七八月かな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    7,
+    11
+   ],
+   "ruby": [
+    {
+     "a": "癒",
+     "r": "い"
+    },
+    {
+     "a": "日毎",
+     "r": "ひごと"
+    },
+    {
+     "a": "険",
+     "r": "けは"
+    },
+    {
+     "a": "七八月",
+     "r": "ななやつき"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000187",
+   "pid": "aozora",
+   "pages": [],
+   "no": 187,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "買ひおきし薬つきたる朝に来し友のなさけの為替のかなしさ。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    14
+   ],
+   "ruby": [
+    {
+     "a": "為替",
+     "r": "かはせ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000188",
+   "pid": "aozora",
+   "pages": [],
+   "no": 188,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "児を叱れば、泣いて、寝入りぬ。口すこしあけし寝顔にさはりてみるかな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    6,
+    15
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000189",
+   "pid": "aozora",
+   "pages": [],
+   "no": 189,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "何がなしに肺が小さくなれる如く思ひて起きぬ――秋近き朝。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    23
+   ],
+   "ruby": [
+    {
+     "a": "如",
+     "r": "ごと"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000190",
+   "pid": "aozora",
+   "pages": [],
+   "no": 190,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "秋近し！電燈の球のぬくもりのさはれば指の皮膚に親しき。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    14
+   ],
+   "ruby": [
+    {
+     "a": "球",
+     "r": "たま"
+    },
+    {
+     "a": "皮膚",
+     "r": "ひふ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000191",
+   "pid": "aozora",
+   "pages": [],
+   "no": 191,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ひる寝せし児の枕辺に人形を買ひ来てかざり、ひとり楽しむ。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    21
+   ],
+   "ruby": [
+    {
+     "a": "枕辺",
+     "r": "まくらべ"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000192",
+   "pid": "aozora",
+   "pages": [],
+   "no": 192,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "クリストを人なりといへば、妹の眼がかなしくも、われをあはれむ。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    13,
+    23
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000193",
+   "pid": "aozora",
+   "pages": [],
+   "no": 193,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "縁先にまくら出させて、ひさしぶりに、ゆふべの空にしたしめるかな。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    18
+   ],
+   "ruby": [
+    {
+     "a": "縁先",
+     "r": "えんさき"
+    }
+   ]
+  },
+  {
+   "id": "kanashiki-gangu-000194",
+   "pid": "aozora",
+   "pages": [],
+   "no": 194,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "庭のそとを白き犬ゆけり。ふりむきて、犬を飼はむと妻にはかれる。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    18
+   ]
+  }
+ ],
+ "poems": [],
+ "catalog": {
+  "work_id": "kanashiki-gangu",
+  "work": "悲しき玩具",
+  "yomi": "かなしきがんぐ",
+  "category": "近代歌集",
+  "era": "明治時代",
+  "author": "石川啄木",
+  "kind": "kashu",
+  "blocks": 194,
+  "chars": 5900,
+  "poems": 194,
+  "yaku": 0,
+  "editions": 1,
+  "updated": "2026-11-21",
+  "updated_at": "2026-11-21T19:18:35+09:00"
+ }
+}
